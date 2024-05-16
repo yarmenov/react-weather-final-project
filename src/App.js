@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.delac.io/"
+            href="https://www.shecodes.io/graduates/71751-yana-armenova"
             target="_blank"
             rel="noopener noreferrer"
           >
